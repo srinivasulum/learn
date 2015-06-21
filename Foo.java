@@ -1,3 +1,4 @@
+import java.util.*;
 Class Foo
 {
 	public static void main(String args[])
