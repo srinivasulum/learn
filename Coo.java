@@ -2,6 +2,9 @@ class Coo
 {
 	public static void main(String args[])
 	{
-		// add print
+		int a;
+		a = 10;
+
+		printf(a);
 	}
 }
